@@ -1,1 +1,1 @@
-# Java-Diziler-Mayin-Tarlasi
+# Java-Diziler-Mayın-Tarla
