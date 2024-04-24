@@ -1,1 +1,1 @@
-# Java-Diziler-May-n-Tarlas-
+# Java-Diziler-Mayin-Tarlasi
